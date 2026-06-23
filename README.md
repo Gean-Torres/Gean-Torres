@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Gean-Torres
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I probably have no idea of what i am really doing. But it is fun at least!
 
 <!---
 Gean-Torres/Gean-Torres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
